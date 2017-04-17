@@ -1,0 +1,1 @@
+Learn your tracings well, to the point that you have these techniques memorized. I never did and cheated half my way through the first few labs. Effed me up later on and had to study double to make up for it.
