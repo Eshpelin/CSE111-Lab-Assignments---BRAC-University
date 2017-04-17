@@ -1,0 +1,19 @@
+public class task05{
+  
+  public static void main(String args[]) {
+    
+    import java.util.Scanner;
+    public class task02{
+      public static void main (String[]args)
+      {
+        Scanner sc = new Scanner(System.in);
+        int []ac = new int [10];
+        for (int counter = 0; counter < ac.length; counter++)
+        {
+          System.out.println("input"+counter);
+          ac[counter]=sc.nextInt();
+        }
+      }
+    }
+  }
+}

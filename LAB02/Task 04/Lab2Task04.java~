@@ -1,0 +1,16 @@
+/*
+ Write a java program that reads 15 numbers from the user, all the numbers within the range 0-9. 
+ Then print the number of times each number has been entered by the user.
+ */
+
+import java.util.*;
+public class Lab2Task04{
+  public static void main (String[] args){
+    Scanner sc = new Scanner (System.in);
+    int [] nums = new int [15];
+    
+    for (int i=0; i<nums.length; i++){
+      System.out.println ("Please input a number");
+      nums [i] = sc.nextInt ();
+    }
+    

@@ -1,0 +1,8 @@
+public class Vehicle {
+  int x;
+  int y;
+  public Vehicle (){
+    x=0;
+    y=0;
+  }
+  

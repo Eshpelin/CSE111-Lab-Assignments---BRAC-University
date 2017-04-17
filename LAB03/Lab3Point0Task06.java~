@@ -1,0 +1,13 @@
+/*
+ 
+6. Write a Java program that will calculate the value of y if the expression of y is as follows (n is the input):
+   
+
+ */
+
+import java.util.*;
+
+public class Lab3Point0Task06{
+  public static void main (String []args){
+    Scanner sc = new Scanner (System.in);
+    

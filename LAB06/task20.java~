@@ -1,0 +1,16 @@
+public class task 20 {
+  
+     public static void main(String[] args) {
+       Scanner scanner = new Scanner(System.in);
+       System.out.print("Enter an input String: ");
+       String inputString = scanner.nextLine();
+       System.out.print("Enter another input String: ");
+       String inputString = scanner.nextLine();
+
+       // doing concatenations
+       
+      String s = "Strings are immutable";
+      s = s.concat(" all the time");
+      System.out.println(s);
+   }
+}

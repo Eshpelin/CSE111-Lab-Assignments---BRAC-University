@@ -1,0 +1,18 @@
+public class BankMain1{
+  public static void main (String [] args){
+    BankAccount acc1 = new BankAccount("John Babaji", "01245", "John Babajir Basha", 2.54);
+    BankAccount acc2 = new BankAccount("Mike Babaji", "01246", "Mike Babajir Basha", 2.55);
+    BankAccount acc3 = new BankAccount("Carol Apa", "01247", "Carol Apar Basha", 2.57);
+   
+    
+    
+    // printing all babajis
+    
+    System.out.println (acc1.toString());
+    System.out.println ("--------------------------");
+     System.out.println (acc2.toString());
+         System.out.println ("--------------------------");
+      System.out.println (acc3.toString());
+    
+  }
+}

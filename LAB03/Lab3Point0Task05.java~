@@ -1,0 +1,25 @@
+/*The current in an alternating current circuit that contains resistance, capacitance, and inductance in series is given by:
+
+ 
+Where I=current (amperes), E=voltage (volts), 
+R= resistance (ohms), L= inductance (henrys), 
+C= capacitance (farads) and 
+f=frequency (hertz). 
+
+Write a Java program that reads values for the voltage, resistance, inductance, capacitance and frequency, and then calculates and displays current.
+*/
+
+import java.util.*;
+  
+  public class Lab3Point0Task05{
+  public static void main (String []args){
+    Scanner sc = new Scanner (System.in);
+    
+    System.out.println ("Please input Current I");
+    int currentI = nextInt();
+    
+        System.out.println ("Please input Voltage E");
+    int voltageE = nextInt();
+    
+        System.out.println ("Please input Resistance (ohms)");
+    int resistance Ohms = nextInt();

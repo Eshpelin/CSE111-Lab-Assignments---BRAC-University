@@ -1,0 +1,11 @@
+import java.util.Scanner;
+public class task01{
+  public static void main (String[]args)
+  {
+    String aString = "this is a string. what is my length?";
+    int length = aString.length();
+    
+    System.out.println (aString);
+    System.out.println (length);
+  }
+}

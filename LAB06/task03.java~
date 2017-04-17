@@ -1,0 +1,16 @@
+import java.io.*;
+
+public class task03{
+   public static void main(String args[]){
+      String Str = new String("Just An Input String");
+
+      System.out.print("Return Value :" );
+      System.out.println(Str.startsWith("Welcome") );
+
+      System.out.print("Return Value :" );
+      System.out.println(Str.startsWith("Tutorials") );
+
+      System.out.print("Return Value :" );
+      System.out.println(Str.startsWith("Tutorials", 11) );
+   }
+}

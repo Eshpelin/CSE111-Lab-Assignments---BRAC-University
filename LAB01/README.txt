@@ -1,0 +1,1 @@
+You should have had this done from CSE110. In my defence, I never bothered to do this. Never helped me other than making my brain melt a little. But this is nice exercize for learning the basics. Now that I am doing higher courses, it makes sense asto why they would bother to teach you this.
